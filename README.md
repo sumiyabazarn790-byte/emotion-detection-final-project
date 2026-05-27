@@ -1,4 +1,8 @@
-# Emotion Detection Final Project
+# Final Project
+
+Project Name: Final Project
+
+Emotion Detection Application
 
 This project implements a Flask web application that detects emotions in text
 using the Watson NLP emotion prediction service.
