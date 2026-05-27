@@ -1,0 +1,7 @@
+Command:
+python -m pylint server.py --persistent=no
+
+Output:
+
+------------------------------------
+Your code has been rated at 10.00/10

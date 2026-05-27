@@ -3,3 +3,6 @@ __pycache__/
 .pylint.d/
 .venv/
 venv/
+.chrome-profile*/
+.edge-profile*/
+test_screenshot.png
